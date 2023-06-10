@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @SOLEMUSIC
+- 👋 Hi, I’m @Pruthviraj
 - 👀 I’m interested in ... Music and Coding
-- 🌱 I’m currently learning ... Diploma 5th semester in Computer enginerring 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently pursuing ... BTech in IT. 
+- 💞️ I’m looking to collaborate on ... Different Projects of cyber security.
 - 📫 How to reach me ... daiyapruthviraj46@gmail.com
 
 <!---
